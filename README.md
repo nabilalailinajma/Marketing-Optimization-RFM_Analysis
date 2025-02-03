@@ -27,7 +27,9 @@ Proyek ini bertujuan untuk menganalisis pola transaksi pelanggan, distribusi rec
 - Meningkatkan kepuasan pelanggan dengan memberikan produk dan layanan yang sesuai dengan kebutuhan dan preferensi pelanggan.
 
 **Tableau Dashboard**
+
 https://public.tableau.com/views/RFM_17346294650680/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **Power Point**
+
 https://www.canva.com/design/DAGZi35l3yA/wFEumOjV_JrfbjH_25s5kg/edit?utm_content=DAGZi35l3yA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
