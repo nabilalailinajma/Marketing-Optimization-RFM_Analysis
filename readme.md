@@ -11,41 +11,38 @@ The Sun Department Store seeks to optimize its marketing strategies by leveragin
 ## Key Analysis Areas
 1. Customer Transaction Patterns Over Time
 - Identifying purchase trends on a daily, weekly, and monthly basis.
-Recognizing peak and off-peak sales periods.
-RFM Segmentation Analysis
+- Recognizing peak and off-peak sales periods.
 
-Recency: When was the last purchase made?
-Frequency: How often do customers make purchases?
-Monetary: How much do customers spend?
-Customer Response to Marketing Campaigns
+2. RFM Segmentation Analysis
+- Recency: When was the last purchase made?
+- Frequency: How often do customers make purchases?
+- Monetary: How much do customers spend?
 
-Segmenting customers based on RFM analysis.
-Measuring average customer response to different marketing campaigns.
-Optimizing Business Decisions
+3. Customer Response to Marketing Campaigns
+- Segmenting customers based on RFM analysis.
+- Measuring average customer response to different marketing campaigns.
 
-Boosting revenue through sales growth, customer retention, and new customer acquisition.
-Enhancing customer satisfaction by offering personalized products and services.
-1. **Menganalisis Pola Transaksi Pelanggan Berdasarkan Waktu:**
-- Mengetahui tren pembelian berdasarkan waktu (harian, mingguan, bulanan).
-- Mengidentifikasi periode puncak dan periode sepi. 
+4. Optimizing Business Decisions
+- Boosting revenue through sales growth, customer retention, and new customer acquisition.
+- Enhancing customer satisfaction by offering personalized products and services.
 
-2. **Menganalisis Distribusi Recency, Frequency, dan Monetary (RFM):**
-- Recency: Kapan terakhir kali pelanggan melakukan pembelian.
-- Frequency: Seberapa sering pelanggan melakukan pembelian.
-- Monetary: Berapa total uang yang dibelanjakan oleh pelanggan.
-
-3. **Menganalisis Respons Rata-Rata Pelanggan per Segmen:**
-- Mengelompokkan pelanggan berdasarkan segmen RFM.
-- Mengetahui respons rata-rata pelanggan terhadap kampanye pemasaran.
-
-4. **Membuat Keputusan Bisnis yang Lebih Baik:**
-- Meningkatkan pendapatan melalui penjualan, retensi pelanggan, dan akuisisi pelanggan baru.
-- Meningkatkan kepuasan pelanggan dengan memberikan produk dan layanan yang sesuai dengan kebutuhan dan preferensi pelanggan.
+## Project Organization
+    ├── readme.md                               <- The top-level README for developers using this project
+    |
+    ├── data
+    │   ├── Retail_Data_Response.csv            <- Additional, The original data sets 
+    │   ├── Retail_Data_Transactions.csv        <- The original main data sets
+    │
+    └── notebooks   
+        └── marketing-segmentation-rfm.ipynb    <- Customer Marketing Segmentation with RFM Notebook 
 
 **Tableau Dashboard**
 
-https://public.tableau.com/views/RFM_17346294650680/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[https://s.id/Marketing-Optimization-RFM_Analysis-tableau]
 
 **Power Point**
 
-https://www.canva.com/design/DAGZi35l3yA/wFEumOjV_JrfbjH_25s5kg/edit?utm_content=DAGZi35l3yA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://s.id/Marketing-Optimization-RFM_Analysis-ppt
+
+## Contribution
+Contributions are welcome! Feel free to suggest improvements, report issues, or submit pull requests on GitHub. 
