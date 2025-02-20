@@ -38,7 +38,7 @@ The Sun Department Store seeks to optimize its marketing strategies by leveragin
 
 **Tableau Dashboard**
 
-[https://s.id/Marketing-Optimization-RFM_Analysis-tableau]
+https://s.id/Marketing-Optimization-RFM_Analysis-tableau
 
 **Power Point**
 
